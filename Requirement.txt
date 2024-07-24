@@ -1,0 +1,37 @@
+Requirements :-
+
+-Python 3.x
+
+-tkinter library (usually included with Python)
+
+-PIL (Python Imaging Library) via the Pillow package
+
+-numpy library
+
+Installation:-
+
+Clone the Repository:- git clone https://github.com/your-username/image-encryption-tool.git
+cd image-encryption-tool
+
+Install Dependencies:- pip install Pillow numpy
+
+Usage:-
+
+Run the Application:-python image_encryption_tool.py
+
+Encrypting an Image:-
+
+-Click "Select Image" to choose an image file.
+-Enter a numeric key (0-255).
+-Click "Encrypt Image" and choose a location to save the encrypted image.
+
+Decrypting an Image:-
+
+-Click "Select Image" to choose an encrypted image file.
+-Enter the same numeric key used for encryption.
+-Click "Decrypt Image" and choose a location to save the decrypted image.
+
+
+
+
+
