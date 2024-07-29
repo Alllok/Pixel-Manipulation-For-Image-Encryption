@@ -44,13 +44,3 @@ Contributing:- Contributions are welcome! Please open an issue or submit a pull 
 License:-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
-Contact
-
-Author: Alok Rathor
-
-Email: alokrathore082gmail.com
-
-GitHub: Alllok
-
-
-
